@@ -25,7 +25,9 @@
 
 ## Contact me
 
-email :  <mint.sonp@gmail.com> <youhyungyu2@gmail.com>   
+email :  
+<mint.sonp@gmail.com> 
+<youhyungyu2@gmail.com>   
 
 <div align=center> 
   
