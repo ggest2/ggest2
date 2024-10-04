@@ -3,8 +3,8 @@
 ![ggest2's profile](https://github-profile-trophy.vercel.app/?username=ggest2&margin-h=50&margin-w=10&row=1&column=8&no-frame=false&theme=algolia)  
 
 ## 교육
-* **(2023.03 ~ 2027.06) 한국외국어대학교 컴퓨터공학부**
-  - **1학기 재학중**
+* **(2024.09 ~ 2024.12) 한국외국어대학교 컴퓨터공학부**
+  - **4학기 재학중**
     + 2029년 졸업예정
   
 ## 활동
